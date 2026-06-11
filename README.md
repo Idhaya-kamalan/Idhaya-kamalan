@@ -16,10 +16,10 @@
 ---
 
 ### About me
-- 🏦 Intern at nRoot Technologies building a **Banking Transaction System** (payment processing, ACID, MySQL)
-- 🔬 ML researcher — multimodal cancer survival prediction (AUC 0.84) + retinal cognitive screening
+- 🏦 Intern at nRoot Technologies building a **Banking Transaction System** backend (payment processing, ACID, MySQL)
+- 🔬 ML researcher — Multimodal cancer survival prognosis + Retinal cognitive screening
 - 🚀 Selected for **PayPal Career Academy** (30 / India-wide)
-- 🎓 B.Tech CSE, SASTRA University · CGPA 8.32
+- 🎓 B.Tech CSE, SASTRA University · CGPA 8.32(current)
 
 ---
 
@@ -28,7 +28,7 @@
 | Project | Domain | Key result |
 |---------|--------|-----------|
 | [MAGNUM](./link) | Medical AI | AUC 0.84, multimodal WSI + genomics |
-| [Cognitive Impairment Detection](./link) | Retinal AI | AUC 0.79, CBAM + Grad-CAM |
+| [Cognitive Impairment Detection](./link) | Medical AI | AUC 0.79, CBAM + Grad-CAM |
 | [Banking Transaction System](./link) | Backend | ACID transactions, payment processing |
 | [Speed Violation Detection](./link) | Computer Vision | YOLOv8 + BYTETrack, 28 FPS |
 
