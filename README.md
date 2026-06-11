@@ -22,7 +22,14 @@
 - 🎓 B.Tech CSE, SASTRA University · CGPA 8.32(current)
 
 ---
+## Featured Projects
 
+| Project | Domain | Key Result |
+|----------|----------|----------|
+| [MAGNUM](https://github.com/Idhaya-kamalan/MAGUNUM-uveal-melonama-prognosis-DL) | Medical AI | AUC 0.84, multimodal WSI + genomics |
+| [Cognitive Impairment Detection](https://github.com/Idhaya-kamalan/REPO_NAME_HERE) | Medical AI | AUC 0.79, CBAM + Grad-CAM |
+| [Banking Transaction System](https://github.com/Idhaya-kamalan/REPO_NAME_HERE) | Backend | ACID transactions, payment processing |
+| [Vehicle Speed Estimation](https://github.com/Idhaya-kamalan/vehicle-speed-estimation-system) | Computer Vision | YOLOv8 + BYTETrack, real-time speed estimation |
 ### Featured projects
 
 | Project | Domain | Key result |
