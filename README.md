@@ -27,7 +27,7 @@
 
 | Project | Domain | Key result |
 |---------|--------|-----------|
-| [MAGNUM](./link) | Medical AI | AUC 0.84, multimodal WSI + genomics |
+| [MAGNUM](./https://github.com/Idhaya-kamalan/MAGUNUM-uveal-melonama-prognosis-DL) | Medical AI | AUC 0.84, multimodal WSI + genomics |
 | [Cognitive Impairment Detection](./link) | Medical AI | AUC 0.79, CBAM + Grad-CAM |
 | [Banking Transaction System](./link) | Backend | ACID transactions, payment processing |
 | [Speed Violation Detection](./link) | Computer Vision | YOLOv8 + BYTETrack, 28 FPS |
