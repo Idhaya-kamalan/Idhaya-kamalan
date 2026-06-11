@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Idhaya Kamalan 👋</h1>
+<h1 align="center">Hi, This is Idhayakamalan :) </h1>
 <p align="center">
   B.Tech CSE @ SASTRA University · Aspiring SDE  · PayPal Career Academy '24
 </p>
