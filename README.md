@@ -27,7 +27,7 @@
 | Project | Domain | Key Result |
 |----------|----------|----------|
 | [MAGNUM](https://github.com/Idhaya-kamalan/MAGUNUM-uveal-melonama-prognosis-DL) | Medical AI | AUC 0.84, multimodal WSI + genomics |
-| [Cognitive Impairment Detection](https://github.com/Idhaya-kamalan/REPO_NAME_HERE) | Medical AI | AUC 0.79, CBAM + Grad-CAM |
+| [Cognitive Impairment Detection](https://github.com/Idhaya-kamalan/cognitive-impairment-detection-retinal-ai) | Medical AI | AUC 0.79, CBAM + Grad-CAM |
 | [Banking Transaction System](https://github.com/Idhaya-kamalan/REPO_NAME_HERE) | Backend | ACID transactions, payment processing |
 | [Vehicle Speed Estimation](https://github.com/Idhaya-kamalan/Real-Time-Vehicle-Speed-Estimation-Traffic-Analytics) | Computer Vision | YOLOv8 + BYTETrack, real-time speed estimation |
 
