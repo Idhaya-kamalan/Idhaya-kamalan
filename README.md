@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Idhaya Kamalan 👋</h1>
 <p align="center">
-  B.Tech CSE @ SASTRA University · Backend & ML Engineer · PayPal Career Academy '24
+  B.Tech CSE @ SASTRA University · Aspiring SDE  · PayPal Career Academy '24
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ---
 
 ### About me
-- 🏦 Backend intern building a **Banking Transaction System** (payment processing, ACID, MySQL)
+- 🏦 Intern at nRoot Technologies building a **Banking Transaction System** (payment processing, ACID, MySQL)
 - 🔬 ML researcher — multimodal cancer survival prediction (AUC 0.84) + retinal cognitive screening
 - 🚀 Selected for **PayPal Career Academy** (30 / India-wide)
 - 🎓 B.Tech CSE, SASTRA University · CGPA 8.32
